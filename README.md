@@ -8,5 +8,5 @@ Following a series of tutorials (Usman Malik) to create neural networks from scr
 1. Single layer: one input layer (consisting of three inputs) and a single output  
 Tutorial here: https://stackabuse.com/creating-a-neural-network-from-scratch-in-python/  
 
-2. Hidden layer: one hidden layer (consisting of three nodes) and a single output  
+2. Hidden layer: one hidden layer (two input coordinates, 4 nodes in hidden layer) and a single output  
 Tutorial here: https://stackabuse.com/creating-a-neural-network-from-scratch-in-python-adding-hidden-layers/
